@@ -7,13 +7,16 @@
 <!-- Descrição projeto -->
 Projeto criado com o objetivo de introduzir o grupo à linguagem swift de programação. O jogo é desenvolvido para duas pessoas e aplicado no terminal, conta com a mistura de jogo da velha e trivia, contendo perguntas sobre filmes e séries criando uma competição entre os dois jogadores. 
 
-<!-- Funcionalidade do projeto -->
-### Guardar nome do jogador
+### Funcionalidades
+
+- Guardar nome Jogadores<br>
 Antes de começarem a jogar, os jogadores inserem seus nomes e esse dado fica gravado e é utilizado durante todo o resto do jogo
+<img width="300" height="150" src="https://github.com/user-attachments/assets/2462724c-8363-4a3a-adbd-2723f9998880"><br>
 
-### Input de pergunta e resposta 
+- Input de pergunta e resposta<br>
 Quando apresentada uma pergunta ao jogador, ele digita sua resposta e essa será analisada pelo jogo para seguir com os próximos passos
+<img width="300" height="150" src="https://github.com/user-attachments/assets/f1f2e641-2213-4def-adfe-795f4fa9ef1a"><br>
 
-### Escolher posição da jogada 
+- Escolher posição da jogada<br> 
 Dentro da parte do jogo da velha, o jogador pode inserir qual posição na qual ele deseja inserir a sua peça
-
+<img width="300" height="150" src="https://github.com/user-attachments/assets/43a16bb8-3155-451e-9941-281dbc643aca"><br>
