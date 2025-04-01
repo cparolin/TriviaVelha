@@ -20,3 +20,11 @@ Quando apresentada uma pergunta ao jogador, ele digita sua resposta e essa será
 - Escolher posição da jogada<br> 
 Dentro da parte do jogo da velha, o jogador pode inserir qual posição na qual ele deseja inserir a sua peça
 <img width="300" height="150" src="https://github.com/user-attachments/assets/43a16bb8-3155-451e-9941-281dbc643aca"><br>
+
+<b> 💻 Onde acessar nosso projeto? </b> <br>
+Nosso projeto está disponível na pasta TriviaVelha aqui no Github, junto de nosso arquivo GDD.
+
+<b> ✅ Técnicas e Tecnologias Utilizadas </b> <br>
+/// Swift
+/// loopings (repeat-while)
+/// estruturas de decisão (if-else e switch-case)
