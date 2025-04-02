@@ -31,6 +31,9 @@ Nosso projeto está disponível na pasta TriviaVelha aqui no Github, junto de no
 ``` estruturas de decisão (if-else e switch-case) ```
 
 ### 🧑‍💻 Desenvolvedores <br>
+
+<img width="300" height="200" src="https://github.com/user-attachments/assets/a0f58010-930c-4a8b-95a8-cf43553833d1"><br>
+
 <b> Camila Parolin </b> <a href="https://www.linkedin.com/in/camila-parolin-70a437333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cparolin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
 <b> Pedro Moreiras </b> <a href="https://www.linkedin.com/in/pedro-henrique-l-moreiras-ba435a300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Pepeu31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
 <b> Tamires Mendes </b> <a href="https://www.linkedin.com/in/tamires-mendes-6006792b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/TamiresMendesS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
