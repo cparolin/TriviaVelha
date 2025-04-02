@@ -30,6 +30,6 @@ Nosso projeto está disponível na pasta TriviaVelha aqui no Github, junto de no
 ``` estruturas de decisão (if-else e switch-case) ```
 
 <b> 🧑‍💻 Desenvolvedores </b> <br>
-Camila Parolin <a href="www.linkedin.com/in/camila-parolin-70a437333">Linkedin</a>
+Camila Parolin <a href="https://www.linkedin.com/in/camila-parolin-70a437333">Linkedin</a>
 Pedro Moreiras <a href="www.linkedin.com/in/pedro-henrique-l-moreiras-ba435a300/">Linkedin</a>
 Tamires Mendes <a href="www.linkedin.com/in/tamires-mendes-6006792b7/">Linkedin</a>
