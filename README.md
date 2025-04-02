@@ -25,6 +25,11 @@ Dentro da parte do jogo da velha, o jogador pode inserir qual posição na qual 
 Nosso projeto está disponível na pasta TriviaVelha aqui no Github, junto de nosso arquivo GDD.
 
 <b> ✅ Técnicas e Tecnologias Utilizadas </b> <br>
-/// Swift
-/// loopings (repeat-while)
-/// estruturas de decisão (if-else e switch-case)
+``` Swift ``` <br>
+``` loopings (repeat-while) ``` <br>
+``` estruturas de decisão (if-else e switch-case) ```
+
+<b> 🧑‍💻 Desenvolvedores </b> <br>
+Camila Parolin <a href="www.linkedin.com/in/camila-parolin-70a437333">Linkedin</a>
+Pedro Moreiras <a href="www.linkedin.com/in/pedro-henrique-l-moreiras-ba435a300/">Linkedin</a>
+Tamires Mendes <a href="www.linkedin.com/in/tamires-mendes-6006792b7/">Linkedin</a>
