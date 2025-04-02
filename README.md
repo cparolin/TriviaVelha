@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/status-finalizado-seagreen"/> <img src="https://img.shields.io/badge/release_date-march-gold"/> <img src="https://img.shields.io/badge/disponível_em-Terminal_MacOs_(swift)-honeydew"/>
 </p>
 
+<div align="left">
 <!-- Descrição projeto -->
 Projeto criado com o objetivo de introduzir o grupo à linguagem swift de programação. O jogo é desenvolvido para duas pessoas e aplicado no terminal, conta com a mistura de jogo da velha e trivia, contendo perguntas sobre filmes e séries criando uma competição entre os dois jogadores. 
 
@@ -33,3 +34,4 @@ Nosso projeto está disponível na pasta TriviaVelha aqui no Github, junto de no
 <b> Camila Parolin </b> <a href="https://www.linkedin.com/in/camila-parolin-70a437333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cparolin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
 <b> Pedro Moreiras </b> <a href="https://www.linkedin.com/in/pedro-henrique-l-moreiras-ba435a300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Pepeu31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
 <b> Tamires Mendes </b> <a href="https://www.linkedin.com/in/tamires-mendes-6006792b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/TamiresMendesS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
