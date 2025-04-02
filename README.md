@@ -30,8 +30,9 @@ Nosso projeto está disponível na pasta TriviaVelha aqui no Github, junto de no
 ``` estruturas de decisão (if-else e switch-case) ```
 
 https://github.com/cparolin
+https://github.com/Pepeu31
 
 ### 🧑‍💻 Desenvolvedores <br>
 <b> Camila Parolin </b> <a href="https://www.linkedin.com/in/camila-parolin-70a437333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cparolin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
-<b> Pedro Moreiras </b> <a href="www.linkedin.com/in/pedro-henrique-l-moreiras-ba435a300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <br> <br>
-<b> Tamires Mendes </b> <a href="www.linkedin.com/in/tamires-mendes-6006792b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<b> Pedro Moreiras </b> <a href="www.linkedin.com/in/pedro-henrique-l-moreiras-ba435a300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Pepeu31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <br> <br>
+<b> Tamires Mendes </b> <a href="www.linkedin.com/in/tamires-mendes-6006792b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Pepeu31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
