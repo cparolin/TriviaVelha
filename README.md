@@ -29,7 +29,7 @@ Nosso projeto está disponível na pasta TriviaVelha aqui no Github, junto de no
 ``` loopings (repeat-while) ``` <br>
 ``` estruturas de decisão (if-else e switch-case) ```
 
-<b> 🧑‍💻 Desenvolvedores </b> <br>
-Camila Parolin <a href="https://www.linkedin.com/in/camila-parolin-70a437333">Linkedin</a>
-Pedro Moreiras <a href="www.linkedin.com/in/pedro-henrique-l-moreiras-ba435a300/">Linkedin</a>
-Tamires Mendes <a href="www.linkedin.com/in/tamires-mendes-6006792b7/">Linkedin</a>
+### 🧑‍💻 Desenvolvedores <br>
+<b> Camila Parolin </b> <a href="https://www.linkedin.com/in/camila-parolin-70a437333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <br> <br>
+<b> Pedro Moreiras </b> <a href="www.linkedin.com/in/pedro-henrique-l-moreiras-ba435a300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <br> <br>
+<b> Tamires Mendes </b> <a href="www.linkedin.com/in/tamires-mendes-6006792b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
