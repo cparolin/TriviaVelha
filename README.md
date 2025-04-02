@@ -4,6 +4,10 @@
 <img src="https://img.shields.io/badge/status-finalizado-seagreen"/> <img src="https://img.shields.io/badge/release_date-march-gold"/> <img src="https://img.shields.io/badge/disponível_em-Terminal_MacOs_(swift)-honeydew"/>
 </p>
 
+<p align="center">
+<img width="380" height="250" src="https://github.com/user-attachments/assets/68a2f203-6397-492b-8866-8be9da98dac9"/> <img width="300" height="250" src="https://github.com/user-attachments/assets/16c8ecda-c80f-448f-9cfe-feac96c85bed"/> 
+</p>
+
 <div align="left">
 <!-- Descrição projeto -->
 Projeto criado com o objetivo de introduzir o grupo à linguagem swift de programação. O jogo é desenvolvido para duas pessoas e aplicado no terminal, conta com a mistura de jogo da velha e trivia, contendo perguntas sobre filmes e séries criando uma competição entre os dois jogadores. 
